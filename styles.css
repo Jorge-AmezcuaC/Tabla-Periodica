@@ -10,7 +10,6 @@ h2{
 }
 .main{
     position: relative;
-    left: 5%;
     width: 95%;
     height: 60%;
 }
@@ -36,9 +35,11 @@ td{
 }
 .colorRed{
     background-color: orangered;
+    color: #fff;
 }
 .colorOrange{
     background-color: orange;
+    color: #fff;
 }
 .colorBlue{
     background-color: lightblue;
@@ -60,7 +61,4 @@ td{
 }
 .colorGray{
     background-color: gray;
-}
-.textColor{
-    color: #fff;
 }

@@ -23,6 +23,10 @@ td{
     width: 45px;
     height: 45px;
 }
+a{
+    text-decoration: none;
+    color: #000;
+}
 .space{
     width: 10px;
 }
@@ -33,32 +37,67 @@ td{
 .colorGreen{
     background-color: yellowgreen;
 }
+.colorGreen:hover{
+    box-shadow: 0px 0px 10px yellowgreen;
+}
 .colorRed{
-    background-color: orangered;
+    background-color: red;
     color: #fff;
+}
+.colorRed a{
+    color: #fff;
+}
+.colorRed:hover{
+    box-shadow: 0px 0px 10px red;
 }
 .colorOrange{
     background-color: orange;
+}
+.colorOrange a{
     color: #fff;
+}
+.colorOrange:hover{
+    box-shadow: 0px 0px 10px orange;
 }
 .colorBlue{
     background-color: lightblue;
 }
+.colorBlue:hover{
+    box-shadow: 0px 0px 10px lightblue;
+}
 .colorBlueRoyal{
     background-color: royalblue;
+}
+.colorBlueRoyal:hover{
+    box-shadow: 0px 0px 10px royalblue;
 }
 .colorPurple{
     background-color: mediumpurple;
 }
+.colorPurple:hover{
+    box-shadow: 0px 0px 10px mediumpurple;
+}
 .colorYellow{
     background-color: gold;
+}
+.colorYellow:hover{
+    box-shadow: 0px 0px 10px gold;
 }
 .colorPink{
     background-color: lightpink;
 }
+.colorPink:hover{
+    box-shadow: 0px 0px 10px lightpink;
+}
 .colorGreenBlue{
     background-color: darkcyan;
 }
+.colorGreenBlue:hover{
+    box-shadow: 0px 0px 10px darkcyan;
+}
 .colorGray{
     background-color: gray;
+}
+.colorGray:hover{
+    box-shadow: 0px 0px 10px gray;
 }

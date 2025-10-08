@@ -1,0 +1,66 @@
+body{
+    width: 95vw;
+    height: 95vh;
+}
+h2{
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.main{
+    position: relative;
+    left: 5%;
+    width: 95%;
+    height: 60%;
+}
+.second{
+    position: relative;
+    margin: auto;
+    width: 60%;
+    height: 15%;
+}
+td{
+    width: 45px;
+    height: 45px;
+}
+.space{
+    width: 10px;
+}
+.descSize{
+    width: 15px;
+    height: 15px;
+}
+.colorGreen{
+    background-color: yellowgreen;
+}
+.colorRed{
+    background-color: orangered;
+}
+.colorOrange{
+    background-color: orange;
+}
+.colorBlue{
+    background-color: lightblue;
+}
+.colorBlueRoyal{
+    background-color: royalblue;
+}
+.colorPurple{
+    background-color: mediumpurple;
+}
+.colorYellow{
+    background-color: gold;
+}
+.colorPink{
+    background-color: lightpink;
+}
+.colorGreenBlue{
+    background-color: darkcyan;
+}
+.colorGray{
+    background-color: gray;
+}
+.textColor{
+    color: #fff;
+}
